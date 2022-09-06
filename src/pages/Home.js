@@ -21,6 +21,7 @@ function Home() {
           />
         </div>
         <h1>Eduardo Silva</h1>
+        <h2>Desenvolvedor Front-End</h2>
         <div className="squares">
           <span></span>
           <span></span>
